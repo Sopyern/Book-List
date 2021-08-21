@@ -1,0 +1,64 @@
+/* Index style */
+body {
+  background-color: rgb(209, 203, 195);
+  font-family: "Times New Roman", Times, serif;
+}
+.alert {
+  color: white;
+  padding: 6px;
+  margin: 6px 0 6px 0;
+  text-align: center;
+}
+.success {
+  background-color: green;
+}
+.error {
+  background-color: rgb(241, 14, 14);
+}
+.btn {
+  background-color: rgb(51, 11, 226);
+}
+h2 {
+  color: rgb(51, 11, 226);
+}
+/* About style */
+h3 {
+  text-align: center;
+}
+a {
+  color: rgb(77, 74, 74);
+  font-size: 14px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: none;
+  margin-right: 4px;
+}
+.selected {
+  border-bottom: 2px solid #170b2c;
+}
+/*body style here*/
+h3 {
+  color: rgba(58, 54, 54, 0.993);
+}
+.para p {
+  text-align: center;
+  font-size: 18px;
+  margin: 0px 15px;
+  color: rgb(42, 40, 40);
+}
+
+#my-picture img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+div #my-picture {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  color: rgba(56, 55, 55, 0.644);
+}
+
+img {
+  width: 100px;
+}
